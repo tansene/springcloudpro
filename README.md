@@ -64,8 +64,7 @@
     
 -   访问登录接口：localhost:8081/api/v1/login
     
--   账号密码：{"identity":"13888888888","password":"123456"}或 {"identity":"admin","password":"123456"}
-或 {"identity":"53182347@qq.com","password":"123456"}(管理员)
+-   账号密码：{"identity":"13888888888","password":"123456"}或 {"identity":"admin","password":"123456"}}(管理员)
     
 -   获取token访问其他接口
 
