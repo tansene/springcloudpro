@@ -1,4 +1,4 @@
-package com.liugh.util;
+package com.tansene.util;
 
 import com.auth0.jwt.JWT;
 import com.auth0.jwt.JWTVerifier;
@@ -10,7 +10,7 @@ import java.io.UnsupportedEncodingException;
 import java.util.Date;
 
 /**
- * @author liugh
+ * @author tansene
  * @since 2018-05-07
  */
 public class JWTUtil {

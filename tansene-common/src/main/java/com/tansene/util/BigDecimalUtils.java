@@ -1,11 +1,11 @@
-package com.liugh.util;
+package com.tansene.util;
 
 import org.apache.commons.lang3.math.NumberUtils;
 
 import java.math.BigDecimal;
 
 /**
- * @author liugh
+ * @author tansene
  * @since on 2018/5/8.
  */
 public class BigDecimalUtils {

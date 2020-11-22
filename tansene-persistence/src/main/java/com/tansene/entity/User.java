@@ -13,7 +13,7 @@ import lombok.*;
  * 用户表
  * </p>
  *
- * @author liugh123
+ * @author tansene
  * @since 2018-06-25
  */
 @Builder

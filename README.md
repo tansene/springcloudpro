@@ -53,13 +53,13 @@
 
 -   通过git下载源码，本项目基于JDK1.8
     
--   采用Maven项目管理，模块化，导入IDE时直接选定liugh-parent的pom导入
+-   采用Maven项目管理，模块化，导入IDE时直接选定tansene-parent的pom导入
     
--   创建数据库liugh，数据库编码为UTF-8，执行liugh.sql文件，初始化数据
+-   创建数据库tansene，数据库编码为UTF-8，执行tansene.sql文件，初始化数据
     
 -   修改application-dev.properties，更新MySQL账号和密码
     
--   Eclipse、IDEA运行SpringbootApplication.java，则可启动项目。或在liugh-parent目录下运行命令mvn clean package，然后在liugh-web/target目录下运行java -jar liugh-web.jar命令
+-   Eclipse、IDEA运行SpringbootApplication.java，则可启动项目。或在tansene-parent目录下运行命令mvn clean package，然后在tansene-web/target目录下运行java -jar tansene-web.jar命令
 
     
 -   访问登录接口：localhost:8081/api/v1/login

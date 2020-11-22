@@ -11,7 +11,7 @@ import java.util.List;
  *  Mapper 接口
  * </p>
  *
- * @author liugh123
+ * @author tansene
  * @since 2018-05-03
  */
 public interface MenuMapper extends BaseMapper<Menu> {

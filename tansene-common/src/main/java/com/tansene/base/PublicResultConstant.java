@@ -1,7 +1,7 @@
-package com.liugh.base;
+package com.tansene.base;
 
 /**
- * @author liugh
+ * @author tansene
  * @since 2018-05-03
  */
 public class PublicResultConstant {

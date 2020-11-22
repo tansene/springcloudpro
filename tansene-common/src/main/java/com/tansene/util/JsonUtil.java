@@ -1,4 +1,4 @@
-package com.liugh.util;
+package com.tansene.util;
 
 
 import com.google.gson.*;
@@ -11,7 +11,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @author liugh
+ * @author tansene
  * @since on 2018/5/15.
  */
 public class JsonUtil {

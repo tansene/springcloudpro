@@ -1,10 +1,10 @@
-package com.liugh.util;
+package com.tansene.util;
 
 import com.alibaba.fastjson.JSON;
-import com.liugh.base.BusinessException;
-import com.liugh.base.Constant;
-import com.liugh.base.SmsSendRequest;
-import com.liugh.base.SmsSendResponse;
+import com.tansene.base.BusinessException;
+import com.tansene.base.Constant;
+import com.tansene.base.SmsSendRequest;
+import com.tansene.base.SmsSendResponse;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -15,7 +15,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 
 /**
- * @author liugh
+ * @author tansene
  */
 public class SmsSendUtil {
 

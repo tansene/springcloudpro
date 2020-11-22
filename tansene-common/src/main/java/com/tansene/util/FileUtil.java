@@ -1,6 +1,6 @@
-package com.liugh.util;
+package com.tansene.util;
 
-import com.liugh.base.Constant;
+import com.tansene.base.Constant;
 import net.coobird.thumbnailator.Thumbnails;
 import org.apache.tools.zip.ZipEntry;
 import org.apache.tools.zip.ZipFile;
@@ -18,7 +18,7 @@ import java.nio.charset.Charset;
 import java.util.*;
 
 /**
- * @author liugh
+ * @author tansene
  * @since on 2018/5/8.
  */
 public class FileUtil {

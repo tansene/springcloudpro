@@ -8,7 +8,7 @@ import com.tansene.entity.RoleToMenu;
  *  Mapper 接口
  * </p>
  *
- * @author liugh123
+ * @author tansene
  * @since 2018-05-03
  */
 public interface RoleToMenuMapper extends BaseMapper<RoleToMenu> {

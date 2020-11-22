@@ -8,7 +8,7 @@ import com.tansene.entity.InfoToUser;
  * 用户电话关系表 Mapper 接口
  * </p>
  *
- * @author liugh123
+ * @author tansene
  * @since 2018-10-29
  */
 public interface InfoToUserMapper extends BaseMapper<InfoToUser> {

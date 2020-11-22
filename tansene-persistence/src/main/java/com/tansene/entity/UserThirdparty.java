@@ -14,7 +14,7 @@ import lombok.*;
  * 第三方用户表
  * </p>
  *
- * @author liugh123
+ * @author tansene
  * @since 2018-07-27
  */
 @Builder

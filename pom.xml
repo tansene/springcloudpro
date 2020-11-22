@@ -4,16 +4,16 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.liugh</groupId>
-    <artifactId>liugh-parent</artifactId>
+    <groupId>com.tansene</groupId>
+    <artifactId>tansene-parent</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
 
     <modules>
-        <module>liugh-common</module>
-        <module>liugh-persistence</module>
-        <module>liugh-service</module>
-        <module>liugh-web</module>
+        <module>tansene-common</module>
+        <module>tansene-persistence</module>
+        <module>tansene-service</module>
+        <module>tansene-web</module>
     </modules>
 
     <parent>
@@ -44,7 +44,7 @@
         <pinyin4j.version>2.5.0</pinyin4j.version>
         <thumbnailator.version>0.4.8</thumbnailator.version>
         <gson.version>2.7</gson.version>
-        <mysql-connector-java.version>5.1.38</mysql-connector-java.version>
+        <mysql-connector-java.version>8.0.13</mysql-connector-java.version>
         <scala-bcrypt_2.10.version>2.3</scala-bcrypt_2.10.version>
         <rest-assured.version>2.9.0</rest-assured.version>
         <ant.version>1.9.7</ant.version>

@@ -1,4 +1,4 @@
-package com.liugh.util;
+package com.tansene.util;
 
 import okhttp3.MediaType;
 import okhttp3.OkHttpClient;
@@ -8,26 +8,14 @@ import org.apache.commons.httpclient.HttpClient;
 import org.apache.commons.httpclient.NameValuePair;
 import org.apache.commons.httpclient.methods.GetMethod;
 import org.apache.commons.httpclient.methods.PostMethod;
-import org.apache.http.HttpEntity;
-import org.apache.http.client.methods.CloseableHttpResponse;
-import org.apache.http.client.methods.HttpPost;
-import org.apache.http.conn.ssl.SSLConnectionSocketFactory;
-import org.apache.http.entity.StringEntity;
-import org.apache.http.impl.client.CloseableHttpClient;
-import org.apache.http.impl.client.HttpClients;
-import org.apache.http.ssl.SSLContexts;
-import org.apache.http.util.EntityUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import javax.net.ssl.SSLContext;
-import java.io.FileInputStream;
 import java.io.IOException;
-import java.security.KeyStore;
 import java.util.ArrayList;
 
 /**
- * @author liugh
+ * @author tansene
  * @since on 2018/7/25
  */
 public final class HttpUtil {

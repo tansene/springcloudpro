@@ -1,4 +1,4 @@
-package com.liugh.base;
+package com.tansene.base;
 
 /**
  *

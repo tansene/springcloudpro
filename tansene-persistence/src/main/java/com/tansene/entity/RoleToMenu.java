@@ -14,7 +14,7 @@ import lombok.*;
  * 角色菜单表
  * </p>
  *
- * @author liugh123
+ * @author tansene
  * @since 2018-06-25
  */
 @Builder

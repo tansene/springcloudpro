@@ -1,10 +1,9 @@
-package com.liugh.util;
+package com.tansene.util;
 
 import net.sourceforge.pinyin4j.PinyinHelper;
 import net.sourceforge.pinyin4j.format.HanyuPinyinCaseType;
 import net.sourceforge.pinyin4j.format.HanyuPinyinOutputFormat;
 import net.sourceforge.pinyin4j.format.HanyuPinyinToneType;
-import net.sourceforge.pinyin4j.format.exception.BadHanyuPinyinOutputFormatCombination;
 
 import java.io.UnsupportedEncodingException;
 import java.lang.annotation.Annotation;
@@ -14,7 +13,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- * @author liugh
+ * @author tansene
  * @since on 2018/5/8.
  */
 public class StringUtil {

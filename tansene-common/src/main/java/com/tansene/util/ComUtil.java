@@ -1,9 +1,9 @@
-package com.liugh.util;
+package com.tansene.util;
 
 import java.util.*;
 
 /**
- * @author liugh
+ * @author tansene
  * @since 2018-05-07
  */
 public class ComUtil {
