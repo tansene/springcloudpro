@@ -17,7 +17,7 @@ import java.util.Map;
  * 第三方登录辅助类
  *
  * @author tansene
- * @version 2018年7月25日 下午3:44:45
+ * @version 2020/11/20
  */
 public final class ThirdPartyLoginHelper {
 

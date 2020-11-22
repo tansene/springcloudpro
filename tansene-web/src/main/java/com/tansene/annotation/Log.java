@@ -6,7 +6,7 @@ import java.lang.annotation.*;
 /**
  * 在Controller方法上加入改注解会自动记录日志
  * @author : tansene
- * @date : 2018/05/08
+ * @date : 2020/11/20
  */
 @Target( { ElementType.METHOD } )
 @Retention( RetentionPolicy.RUNTIME )

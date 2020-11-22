@@ -17,7 +17,7 @@ import java.util.Map;
 /**
  * 代码生成器
  * @author tansene
- * @since 2018-03-21
+ * @since 2020/11/20
  */
 public class MpGenerator {
     public static void main(String[] args) {

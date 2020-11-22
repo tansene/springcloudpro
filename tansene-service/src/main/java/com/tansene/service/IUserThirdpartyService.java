@@ -11,7 +11,7 @@ import com.tansene.model.ThirdPartyUser;
  * </p>
  *
  * @author tansene
- * @since 2018-07-27
+ * @since 2020/11/22
  */
 public interface IUserThirdpartyService extends IService<UserThirdparty> {
 

@@ -7,7 +7,7 @@ import java.lang.reflect.Method;
 
 /**
  * 基本被装饰类,做一些公共处理
- * Created by tansene on 2018/10/12.
+ * Created by tansene on 2020/11/20.
  */
 public class AspectApiImpl implements AspectApi {
 

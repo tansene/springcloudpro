@@ -63,7 +63,7 @@ public class SmsSendUtil {
 
     /**
      *
-     * @author tianyh
+     * @author tansene
      * @Description
      * @param path
      * @param postContent

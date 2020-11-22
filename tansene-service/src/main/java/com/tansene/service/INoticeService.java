@@ -11,7 +11,7 @@ import com.tansene.entity.User;
  * </p>
  *
  * @author tansene
- * @since 2018-07-27
+ * @since 2020/11/22
  */
 public interface INoticeService extends IService<Notice> {
 

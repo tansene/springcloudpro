@@ -17,7 +17,7 @@ import java.util.Map;
 
 /**
  * 限流切面
- * Created by tansene on 2018/10/12.
+ * Created by tansene on 2020/11/20.
  */
 @Slf4j
 public class AccessLimitAspect extends AbstractAspectManager{

@@ -3,7 +3,7 @@ package com.tansene.enums;
 /**
  * Description:订单状态接口,不同类型的订单走不同的订单流程,不同的订单流程有不同的状态节点
  * @author tansene
- * @since 2018-10-17
+ * @since 2020/11/22
  */
 public interface OrderStatus {
 

@@ -12,7 +12,7 @@ import java.util.Map;
 
 /**
  * @author tansene
- * @since on 2018/5/15.
+ * @since on 2020/11/22.
  */
 public class JsonUtil {
     private static Gson gson = null;

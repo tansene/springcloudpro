@@ -2,7 +2,7 @@ package com.tansene.base;
 
 /**
  * @author tansene
- * @since on 2018/5/8.
+ * @since on 2020/11/22.
  */
 public class BusinessException extends Exception{
     /**

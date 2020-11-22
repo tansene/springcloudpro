@@ -2,7 +2,7 @@ package com.tansene.base;
 
 /**
  *
- * @author tianyh
+ * @author tansene
  * @Description:普通短信发送实体类
  */
 public class SmsSendRequest {

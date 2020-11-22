@@ -16,7 +16,7 @@ import org.thymeleaf.exceptions.TemplateInputException;
 /**
  * Controller统一异常处理
  * @author : tansene
- * @date : 2018/05/08
+ * @date : 2020/11/20
  */
 @ControllerAdvice
 public class AllControllerAdvice {

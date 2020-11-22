@@ -9,7 +9,7 @@ import com.tansene.entity.InfoToUser;
  * </p>
  *
  * @author tansene
- * @since 2018-10-29
+ * @since 2020/11/22
  */
 public interface InfoToUserMapper extends BaseMapper<InfoToUser> {
 

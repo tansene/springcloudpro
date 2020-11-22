@@ -5,7 +5,7 @@ import org.aspectj.lang.ProceedingJoinPoint;
 
 /**
  * @author tansene 装饰器模式
- * @since on 2018/5/10.
+ * @since on 2020/11/20.
  */
 public interface AspectApi {
 

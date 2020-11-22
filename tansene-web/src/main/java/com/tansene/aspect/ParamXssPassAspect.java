@@ -7,7 +7,7 @@ import java.lang.reflect.Method;
 
 /**
  * 防止xss攻击切面
- * Created by tansene on 2018/10/12.
+ * Created by tansene on 2020/11/20.
  */
 public class ParamXssPassAspect extends  AbstractAspectManager{
 

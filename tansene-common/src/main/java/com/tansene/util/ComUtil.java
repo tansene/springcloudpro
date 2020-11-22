@@ -4,7 +4,7 @@ import java.util.*;
 
 /**
  * @author tansene
- * @since 2018-05-07
+ * @since 2020/11/22
  */
 public class ComUtil {
 

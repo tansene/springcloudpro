@@ -12,7 +12,7 @@ import javax.servlet.MultipartConfigElement;
  * </p>
  *
  * @author tansene
- * @since 2018-03-21
+ * @since 2020/11/20
  */
 @Configuration
 public class FileUploadConfig {

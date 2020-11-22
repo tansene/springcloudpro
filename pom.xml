@@ -14,6 +14,7 @@
         <module>tansene-persistence</module>
         <module>tansene-service</module>
         <module>tansene-web</module>
+        <module>tansene-search</module>
     </modules>
 
     <parent>

@@ -11,7 +11,7 @@ import org.springframework.http.converter.HttpMessageConverter;
 import java.nio.charset.Charset;
 
 /**
- * Created by tansene on 2018/11/10.
+ * Created by tansene on 2020/11/20.
  */
 @Configuration
 public class HttpMessageConverterConfig {

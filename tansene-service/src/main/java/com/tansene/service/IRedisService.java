@@ -4,7 +4,7 @@ import java.util.List;
 
 /**
  * @author tansene
- * @since on 2018/5/11.
+ * @since on 2020/11/20.
  */
 public interface IRedisService {
     boolean set(String key, String value) throws Exception;

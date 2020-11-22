@@ -8,7 +8,7 @@ import java.util.Map;
 import java.util.ResourceBundle;
 
 /**
- * Created by tansene on 2018/7/24.
+ * Created by tansene on 2020/11/20.
  */
 public class ResourcesConfig {
     /** 第三方登录配置 */
